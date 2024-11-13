@@ -1,0 +1,533 @@
+name,category,tract_id,latitude,longitude,amenity_type,leisure_type,shop_type,type_description
+Mac's,shops,5620002.00,42.9610374,-82.4043274,,,convenience,convenience
+Rainbow Park,recreation,5620002.00,42.96622643741039,-82.40983582539444,,park,,park
+Swimming Pool at Tract 5620002.00,recreation,5620002.00,42.9618519,-82.3990089,,swimming_pool,,swimming_pool
+Swimming Pool at Tract 5620002.00,recreation,5620002.00,42.962309862931804,-82.39961054712494,,swimming_pool,,swimming_pool
+Swimming Pool at Tract 5620002.00,recreation,5620002.00,42.9619428,-82.3991489,,swimming_pool,,swimming_pool
+Swimming Pool at Tract 5620002.00,recreation,5620002.00,42.962076296472716,-82.39966477533886,,swimming_pool,,swimming_pool
+Swimming Pool at Tract 5620002.00,recreation,5620002.00,42.962540749999995,-82.39914234999999,,swimming_pool,,swimming_pool
+Swimming Pool at Tract 5620002.00,recreation,5620002.00,42.962718881436494,-82.3994236256436,,swimming_pool,,swimming_pool
+Swimming Pool at Tract 5620002.00,recreation,5620002.00,42.9626980468187,-82.39918072488669,,swimming_pool,,swimming_pool
+Swimming Pool at Tract 5620002.00,recreation,5620002.00,42.963394403034044,-82.39918042367657,,swimming_pool,,swimming_pool
+Rainbow Park,parks,5620002.00,42.96622643741039,-82.40983582539444,,park,,park
+St. Joseph's Catholic Church,community,5620002.00,42.964155600000005,-82.4004323,place_of_worship,,,place_of_worship
+Sarnia Foursquare Church,community,5620002.00,42.96629185,-82.40394734999998,place_of_worship,,,place_of_worship
+St. John's Anglican Church,community,5620002.00,42.964626903149686,-82.40301660565177,place_of_worship,,,place_of_worship
+St. Paul's United Church,community,5620002.00,42.96469601390501,-82.40204050499428,place_of_worship,,,place_of_worship
+5 Corners Coffee,restaurants,5620003.00,42.9683665,-82.3977072,cafe,,,cafe
+Burger King,restaurants,5620003.00,42.9637657,-82.3767653,fast_food,,,fast_food
+Tim Hortons,restaurants,5620003.00,42.96149955252851,-82.37690936930917,cafe,,,cafe
+Piccadilly Bar & Grill,restaurants,5620003.00,42.963869837668426,-82.37735926435292,bar,,,bar
+Shell,shops,5620003.00,42.9638796,-82.3767514,,,convenience,convenience
+Food Basics,shops,5620003.00,42.96328154141596,-82.37814289454421,,,supermarket,supermarket
+Mac's,shops,5620003.00,42.96099802521925,-82.37698670667862,,,convenience,convenience
+P.E. McGibbon Public School,education,5620003.00,42.966978706072936,-82.39268187306482,school,,,school
+Playground at Tract 5620003.00,recreation,5620003.00,42.9636934,-82.391318,,playground,,playground
+Errol Russell Park,recreation,5620003.00,42.965121333391004,-82.38912041380664,,park,,park
+Tecumseh Park,recreation,5620003.00,42.9626992412107,-82.39055979156598,,park,,park
+Pitch at Tract 5620003.00,recreation,5620003.00,42.96504128042896,-82.38930579796934,,pitch,,pitch
+Pitch at Tract 5620003.00,recreation,5620003.00,42.962537862012674,-82.38991954442162,,pitch,,pitch
+Playground at Tract 5620003.00,recreation,5620003.00,42.9631412,-82.39092610000002,,playground,,playground
+Swimming Pool at Tract 5620003.00,recreation,5620003.00,42.962764208320415,-82.3909203812927,,swimming_pool,,swimming_pool
+Errol Russell Park,parks,5620003.00,42.965121333391004,-82.38912041380664,,park,,park
+Tecumseh Park,parks,5620003.00,42.9626992412107,-82.39055979156598,,park,,park
+Sarnia,public_transport,5620003.00,42.9571173,-82.3883211,,,,unknown
+Sarnia,public_transport,5620003.00,42.9572496,-82.3889155,,,,unknown
+Sarnia,public_transport,5620003.00,42.95719326765022,-82.38942465840314,,,,unknown
+Sovereign Grace Community Church,community,5620003.00,42.96610150326015,-82.39652410966028,place_of_worship,,,place_of_worship
+Devine Street Gospel Chapel,community,5620003.00,42.96458317957084,-82.38618387907526,place_of_worship,,,place_of_worship
+Sarnia Evangelical Missionary Church,community,5620003.00,42.96595024971099,-82.3865057172443,place_of_worship,,,place_of_worship
+Philly Cheese Jake's,restaurants,5620004.00,42.9610158,-82.3717862,restaurant,,,restaurant
+Spice N Ice,restaurants,5620004.00,42.9783204,-82.3675223,restaurant,,,restaurant
+Mike's Pizza & Subs,restaurants,5620004.00,42.9648092,-82.3755004,fast_food,,,fast_food
+Subway,restaurants,5620004.00,42.9608507,-82.3695018,fast_food,,,fast_food
+Little Caesars,restaurants,5620004.00,42.9608499,-82.3692613,fast_food,,,fast_food
+A Cup a Coffee,restaurants,5620004.00,42.96088412456855,-82.37107449125615,restaurant,,,restaurant
+Arby's,restaurants,5620004.00,42.97834606028064,-82.36696980573826,fast_food,,,fast_food
+Wharf Fish & Chips,restaurants,5620004.00,42.97702102733308,-82.36715669648751,restaurant,,,restaurant
+Scroggie's Grillhouse and Bar,restaurants,5620004.00,42.97684630236817,-82.3672198420933,restaurant,,,restaurant
+Freshii,restaurants,5620004.00,42.97571249162561,-82.36708853049247,restaurant,,,restaurant
+Kokomo's,shops,5620004.00,42.9758823,-82.3672528,,,clothes,clothes
+Greer's Variety,shops,5620004.00,42.9649719,-82.3755067,,,convenience,convenience
+Star Mini-Mart,shops,5620004.00,42.9608787,-82.3719468,,,convenience,convenience
+Snack Express,shops,5620004.00,42.9608746,-82.3685409,,,convenience,convenience
+Queen Elizabeth II School,education,5620004.00,42.971596422489284,-82.3721718912821,school,,,school
+Lansdowne Public School,education,5620004.00,42.964965781331635,-82.37175455473692,school,,,school
+Holy Trinity Catholic School,education,5620004.00,42.96998327914927,-82.37272683877832,school,,,school
+London Bridge,education,5620004.00,42.970933985270975,-82.37120169282146,kindergarten,,,kindergarten
+Shoppers Drug Mart,healthcare,5620004.00,42.9655186,-82.375523,pharmacy,,,pharmacy
+Pitch at Tract 5620004.00,recreation,5620004.00,42.96599559331044,-82.37449109887635,,pitch,,pitch
+Pitch at Tract 5620004.00,recreation,5620004.00,42.965278633610104,-82.37384552066291,,pitch,,pitch
+Coronation Park,recreation,5620004.00,42.97282579907725,-82.37254349923019,,park,,park
+Lansdowne Park,recreation,5620004.00,42.965355579109676,-82.37423059493685,,park,,park
+Coronation Park,parks,5620004.00,42.97282579907725,-82.37254349923019,,park,,park
+Lansdowne Park,parks,5620004.00,42.965355579109676,-82.37423059493685,,park,,park
+Dow Centre for Youth,community,5620004.00,42.9692438,-82.3757846,community_centre,,,community_centre
+Canada Post,community,5620004.00,42.9655795,-82.3752897,post_office,,,post_office
+St. Benedict Catholic Church,community,5620004.00,42.97018503841667,-82.37158634184263,place_of_worship,,,place_of_worship
+St. Luke's United Church,community,5620004.00,42.96877795809511,-82.37559998026012,place_of_worship,,,place_of_worship
+The Salvation Army,community,5620004.00,42.961065979396196,-82.3726112841271,place_of_worship,,,place_of_worship
+Community of Christ,community,5620004.00,42.96630302967925,-82.36750679052358,place_of_worship,,,place_of_worship
+Wellington Convenience,shops,5620005.00,42.9686626,-82.3864155,,,convenience,convenience
+Milk Mart Variety,shops,5620005.00,42.9686804,-82.3766953,,,convenience,convenience
+Home Hardware,shops,5620005.00,42.97140437480309,-82.39119018080976,,,hardware,hardware
+Convenience at Tract 5620005.00,shops,5620005.00,42.97238856013535,-82.39117637512284,,,convenience,convenience
+St. Matthew Catholic School,education,5620005.00,42.97317513238766,-82.3821778193493,school,,,school
+Hanna Memorial Public School,education,5620005.00,42.97535102199388,-82.39014816277202,school,,,school
+Bluewater Health - Sarnia,healthcare,5620005.00,42.97693830174758,-82.39006752428524,hospital,,,hospital
+Pitch at Tract 5620005.00,recreation,5620005.00,42.97562447454603,-82.38009770999577,,pitch,,pitch
+Pitch at Tract 5620005.00,recreation,5620005.00,42.97564371245518,-82.37887397243631,,pitch,,pitch
+Pitch at Tract 5620005.00,recreation,5620005.00,42.9744851865071,-82.37901937535173,,pitch,,pitch
+Pitch at Tract 5620005.00,recreation,5620005.00,42.97562392795794,-82.38137194858173,,pitch,,pitch
+Germain Park,recreation,5620005.00,42.97558260384376,-82.3817057171468,,park,,park
+Park at Tract 5620005.00,recreation,5620005.00,42.97060992169601,-82.38146327203032,,park,,park
+Lions Park,recreation,5620005.00,42.97306858725417,-82.39108885107237,,park,,park
+Pitch at Tract 5620005.00,recreation,5620005.00,42.97395349729251,-82.37821248304725,,pitch,,pitch
+Pitch at Tract 5620005.00,recreation,5620005.00,42.9764395,-82.37987505000001,,pitch,,pitch
+Pitch at Tract 5620005.00,recreation,5620005.00,42.97643212098829,-82.38126060704698,,pitch,,pitch
+Pitch at Tract 5620005.00,recreation,5620005.00,42.97606429999999,-82.38264509999999,,pitch,,pitch
+Pitch at Tract 5620005.00,recreation,5620005.00,42.97644195000001,-82.3784575,,pitch,,pitch
+Pitch at Tract 5620005.00,recreation,5620005.00,42.97485332758852,-82.38299493903973,,pitch,,pitch
+Pitch at Tract 5620005.00,recreation,5620005.00,42.97470709999999,-82.38396569999999,,pitch,,pitch
+Pitch at Tract 5620005.00,recreation,5620005.00,42.97491312758853,-82.38244743903974,,pitch,,pitch
+Playground at Tract 5620005.00,recreation,5620005.00,42.97467305973367,-82.3800848935078,,playground,,playground
+Playground at Tract 5620005.00,recreation,5620005.00,42.97385295822611,-82.3795422251188,,playground,,playground
+Germain Park,parks,5620005.00,42.97558260384376,-82.3817057171468,,park,,park
+Park at Tract 5620005.00,parks,5620005.00,42.97060992169601,-82.38146327203032,,park,,park
+Lions Park,parks,5620005.00,42.97306858725417,-82.39108885107237,,park,,park
+Redeemer Lutheran Church,community,5620005.00,42.971782845675186,-82.37684127839906,place_of_worship,,,place_of_worship
+Sarnia Fire Station 1,community,5620005.00,42.97457014605472,-82.38609693049939,fire_station,,,fire_station
+The Tabernacle Church of God,community,5620005.00,42.97356829280226,-82.38628382576223,place_of_worship,,,place_of_worship
+Paterson Presbyterian Church,community,5620005.00,42.969164429308094,-82.3910848084736,place_of_worship,,,place_of_worship
+Fair Havens Baptist Church,community,5620005.00,42.97394899999999,-82.3913288,place_of_worship,,,place_of_worship
+Italia Pizzeria,restaurants,5620006.00,42.9687294,-82.3986786,restaurant,,,restaurant
+7-Eleven,shops,5620006.00,42.968887,-82.3980507,,,convenience,convenience
+Duncan MacKinley Medical Office,healthcare,5620006.00,42.9737959,-82.3984116,doctors,,,doctors
+Shoppers Drug Mart,healthcare,5620006.00,42.9697412,-82.3986706,pharmacy,,,pharmacy
+Bluewater Health - Sarnia,healthcare,5620006.00,42.97693830174758,-82.39006752428524,hospital,,,hospital
+Avondale Park,recreation,5620006.00,42.97026375290363,-82.40321303183794,,park,,park
+Sarnia Arena,recreation,5620006.00,42.96933312632997,-82.40336695883414,,sports_centre,,sports_centre
+Avondale Park,parks,5620006.00,42.97026375290363,-82.40321303183794,,park,,park
+River City Vineyard,community,5620006.00,42.975902076324445,-82.39770158586748,place_of_worship,,,place_of_worship
+Central United Church,community,5620006.00,42.97474360662122,-82.40299708343656,place_of_worship,,,place_of_worship
+All Saints Anglican Church,community,5620006.00,42.97583333060847,-82.40393341756379,place_of_worship,,,place_of_worship
+Central Baptist Church,community,5620006.00,42.977634128803665,-82.39246798021763,place_of_worship,,,place_of_worship
+Lola's Lounge,restaurants,5620007.00,42.9703126,-82.4077594,restaurant,,,restaurant
+Captain John's Fish & Chips,restaurants,5620007.00,42.9831226,-82.401905,restaurant,,,restaurant
+Subway,restaurants,5620007.00,42.9829823,-82.4019855,fast_food,,,fast_food
+MJ's Thai-Filipino-Chinese Cuisine,restaurants,5620007.00,42.9827143,-82.402003,restaurant,,,restaurant
+Milano's Pizza,restaurants,5620007.00,42.9819236,-82.4015802,fast_food,,,fast_food
+Bad Dog,restaurants,5620007.00,42.9743764,-82.4068702,restaurant,,,restaurant
+Freshii,restaurants,5620007.00,42.9735345,-82.4071303,restaurant,,,restaurant
+Blackwater Coffee Co,restaurants,5620007.00,42.9729084,-82.4073396,cafe,,,cafe
+Neon Moon,restaurants,5620007.00,42.971884,-82.4071902,bar,,,bar
+The Tin Fiddler,restaurants,5620007.00,42.9720119,-82.4071699,pub,,,pub
+Wild Wing,restaurants,5620007.00,42.9713719,-82.4077988,restaurant,,,restaurant
+Your Place,restaurants,5620007.00,42.9712716,-82.4074281,restaurant,,,restaurant
+New Trish In,restaurants,5620007.00,42.9709016,-82.4073202,fast_food,,,fast_food
+Under Wraps Cafe,restaurants,5620007.00,42.9704065,-82.4077388,cafe,,,cafe
+Davis by Refined Fool Brewing Company,restaurants,5620007.00,42.9706021,-82.4073162,pub,,,pub
+Sideways Classic Grill,restaurants,5620007.00,42.9722802,-82.4080524,restaurant,,,restaurant
+Blue Line Pub & Lounge,restaurants,5620007.00,42.9729643,-82.4077953,restaurant,,,restaurant
+Cromwell Grill,restaurants,5620007.00,42.9715825,-82.4078975,restaurant,,,restaurant
+Burger Rebellion,restaurants,5620007.00,42.9738547,-82.4070362,restaurant,,,restaurant
+Beanzz,restaurants,5620007.00,42.973738,-82.4070616,cafe,,,cafe
+Ups N' Downs,restaurants,5620007.00,42.9742517,-82.4073968,pub,,,pub
+Greens Cafe,restaurants,5620007.00,42.9735139,-82.4066636,restaurant,,,restaurant
+Greens Organic Cafe,restaurants,5620007.00,42.973224,-82.4067896,cafe,,,cafe
+Rack and Roll Billiards,restaurants,5620007.00,42.9813352,-82.4018406,bar,,,bar
+Tang's China House,restaurants,5620007.00,42.9715605,-82.4068743,restaurant,,,restaurant
+Harvey's,restaurants,5620007.00,42.97736425,-82.4051386,fast_food,,,fast_food
+McDonald's,restaurants,5620007.00,42.98024176345948,-82.40359192155618,fast_food,,,fast_food
+Tim Hortons,restaurants,5620007.00,42.98526357356718,-82.4024448456019,cafe,,,cafe
+Aliya Fashions,shops,5620007.00,42.9736417,-82.4071039,,,clothes,clothes
+Urbanescape,shops,5620007.00,42.9717826,-82.4083209,,,clothes,clothes
+Garbo's Fashion,shops,5620007.00,42.9719052,-82.4082768,,,clothes,clothes
+One Tooth Sarnia,shops,5620007.00,42.9725448,-82.4085164,,,clothes,clothes
+Joie de Vintage,shops,5620007.00,42.9720085,-82.4082204,,,clothes,clothes
+Maran Fashions,shops,5620007.00,42.9730831,-82.4068158,,,clothes,clothes
+Lilith Boutique,shops,5620007.00,42.9730234,-82.4068343,,,clothes,clothes
+Themptations,shops,5620007.00,42.9729569,-82.4068497,,,clothes,clothes
+Christina Coffee Plus,shops,5620007.00,42.977120400000004,-82.4052176,,,convenience,convenience
+7-Eleven,shops,5620007.00,42.97841247637539,-82.40358816848313,,,convenience,convenience
+Lambton County Library - Sarnia,education,5620007.00,42.969906948743954,-82.40770105566092,library,,,library
+Christina Street Pharmacy,healthcare,5620007.00,42.9816865,-82.4020445,pharmacy,,,pharmacy
+Sarnia Pharmacy,healthcare,5620007.00,42.981369113116045,-82.40123407547564,pharmacy,,,pharmacy
+Centennial Park,recreation,5620007.00,42.98310073367398,-82.40615087397765,,park,,park
+Veteran's Park,recreation,5620007.00,42.9696479055653,-82.40667875572268,,park,,park
+Seaway Centre Park,recreation,5620007.00,42.974615670983916,-82.40862282180278,,park,,park
+Playground at Tract 5620007.00,recreation,5620007.00,42.98233755711469,-82.40659118494906,,playground,,playground
+Paul Blundy Park,recreation,5620007.00,42.97320705629151,-82.40830825588976,,park,,park
+Bayshore Park,recreation,5620007.00,42.977663314490165,-82.40682159270969,,park,,park
+Sarnia Harbour,recreation,5620007.00,42.981272941149,-82.41281752570323,,park,,park
+Park at Tract 5620007.00,recreation,5620007.00,42.98212639987193,-82.41139094803279,,park,,park
+Park at Tract 5620007.00,recreation,5620007.00,42.98186893086654,-82.41096180278595,,park,,park
+Park at Tract 5620007.00,recreation,5620007.00,42.98244253478713,-82.40984998260701,,park,,park
+Park at Tract 5620007.00,recreation,5620007.00,42.98208322197654,-82.41088828757651,,park,,park
+Park at Tract 5620007.00,recreation,5620007.00,42.98243451144829,-82.41070278376716,,park,,park
+Park at Tract 5620007.00,recreation,5620007.00,42.9823305321679,-82.40948300763385,,park,,park
+Centennial Park,parks,5620007.00,42.98310073367398,-82.40615087397765,,park,,park
+Veteran's Park,parks,5620007.00,42.9696479055653,-82.40667875572268,,park,,park
+Seaway Centre Park,parks,5620007.00,42.974615670983916,-82.40862282180278,,park,,park
+Paul Blundy Park,parks,5620007.00,42.97320705629151,-82.40830825588976,,park,,park
+Bayshore Park,parks,5620007.00,42.977663314490165,-82.40682159270969,,park,,park
+Sarnia Harbour,parks,5620007.00,42.981272941149,-82.41281752570323,,park,,park
+Park at Tract 5620007.00,parks,5620007.00,42.98212639987193,-82.41139094803279,,park,,park
+Park at Tract 5620007.00,parks,5620007.00,42.98186893086654,-82.41096180278595,,park,,park
+Park at Tract 5620007.00,parks,5620007.00,42.98244253478713,-82.40984998260701,,park,,park
+Park at Tract 5620007.00,parks,5620007.00,42.98208322197654,-82.41088828757651,,park,,park
+Park at Tract 5620007.00,parks,5620007.00,42.98243451144829,-82.41070278376716,,park,,park
+Park at Tract 5620007.00,parks,5620007.00,42.9823305321679,-82.40948300763385,,park,,park
+St. Andrew's Presbysterian Church,community,5620007.00,42.97545640507633,-82.40654125201378,place_of_worship,,,place_of_worship
+Sarnia Police,community,5620007.00,42.98480926977014,-82.40087719836093,police,,,police
+Coffee Lodge,restaurants,5620008.00,42.9857635,-82.3907992,cafe,,,cafe
+Wagg's Steak & Seafood Restaurant,restaurants,5620008.00,42.9802709,-82.402839,restaurant,,,restaurant
+KFC,restaurants,5620008.00,42.98612871424617,-82.38940101613565,fast_food,,,fast_food
+Cosmo's Family Restaurant,restaurants,5620008.00,42.98454722541288,-82.39078465062622,restaurant,,,restaurant
+Mac's,shops,5620008.00,42.9856222,-82.3908053,,,convenience,convenience
+London Road School,education,5620008.00,42.97912518746808,-82.39984460945429,school,,,school
+Norm Perry Park,recreation,5620008.00,42.98651461968612,-82.3979100237596,,park,,park
+Harry Turnbull Skate Park,recreation,5620008.00,42.980795848014154,-82.40035584986208,,park,,park
+Terry Fox Park,recreation,5620008.00,42.978518869073795,-82.3977559914154,,park,,park
+Pitch at Tract 5620008.00,recreation,5620008.00,42.98689476400455,-82.39776668945126,,pitch,,pitch
+Pitch at Tract 5620008.00,recreation,5620008.00,42.98743110589027,-82.39764998422561,,pitch,,pitch
+Pitch at Tract 5620008.00,recreation,5620008.00,42.98612100489082,-82.39816509159849,,pitch,,pitch
+Swimming Pool at Tract 5620008.00,recreation,5620008.00,42.98649795,-82.39190104999999,,swimming_pool,,swimming_pool
+Norm Perry Park,parks,5620008.00,42.98651461968612,-82.3979100237596,,park,,park
+Harry Turnbull Skate Park,parks,5620008.00,42.980795848014154,-82.40035584986208,,park,,park
+Terry Fox Park,parks,5620008.00,42.978518869073795,-82.3977559914154,,park,,park
+Our Lady of Mercy Catholic Church,community,5620008.00,42.979092286438195,-82.40321517037916,place_of_worship,,,place_of_worship
+Lighthouse Community Church,community,5620008.00,42.98297064187724,-82.39771596780086,place_of_worship,,,place_of_worship
+New Horizons Community Church,community,5620008.00,42.98059336157502,-82.39166272585778,place_of_worship,,,place_of_worship
+Subway,restaurants,5620009.00,42.9845913,-82.3772272,fast_food,,,fast_food
+Domino's,restaurants,5620009.00,42.9843641,-82.3772318,fast_food,,,fast_food
+Sissio's Pizza,restaurants,5620009.00,42.9846882,-82.3779756,restaurant,,,restaurant
+Firenze's,restaurants,5620009.00,42.9870733,-82.3876001,fast_food,,,fast_food
+Overflow Cafe,restaurants,5620009.00,42.9870878,-82.3879176,restaurant,,,restaurant
+Kitano,restaurants,5620009.00,42.9851022,-82.3891877,restaurant,,,restaurant
+Cravins,restaurants,5620009.00,42.9854828,-82.3883699,restaurant,,,restaurant
+Christo's,restaurants,5620009.00,42.9850412,-82.3896099,restaurant,,,restaurant
+Lizards Bar & Grill,restaurants,5620009.00,42.984828,-82.3818028,bar,,,bar
+Boulevard Grill,restaurants,5620009.00,42.9854455,-82.3843186,restaurant,,,restaurant
+Bread-Man,restaurants,5620009.00,42.9857901,-82.387796,restaurant,,,restaurant
+Tim Hortons,restaurants,5620009.00,42.984673227710736,-82.38279980100421,cafe,,,cafe
+On the Run,shops,5620009.00,42.9791678,-82.3673145,,,convenience,convenience
+SEO Mini Mart,shops,5620009.00,42.9846921,-82.3778783,,,convenience,convenience
+Home Hardware,shops,5620009.00,42.9856354,-82.3886044,,,hardware,hardware
+Metro,shops,5620009.00,42.9863045,-82.3846508,,,supermarket,supermarket
+Giant Tiger,shops,5620009.00,42.985967,-82.3845033,,,department_store,department_store
+Labels for Less,shops,5620009.00,42.9863126,-82.387772,,,clothes,clothes
+Reno Fine Clothing,shops,5620009.00,42.986469,-82.3880567,,,clothes,clothes
+Children's Garden,shops,5620009.00,42.9865303,-82.3880453,,,clothes,clothes
+No Frills,shops,5620009.00,42.983577584251215,-82.37691572752142,,,supermarket,supermarket
+Neighbours Coffee,shops,5620009.00,42.98459962449671,-82.37630264252843,,,convenience,convenience
+High Park Public School,education,5620009.00,42.98183010479981,-82.37281906215782,school,,,school
+Dental Hygiene & Well,healthcare,5620009.00,42.9845417,-82.3772272,dentist,,,dentist
+I.D.A.,healthcare,5620009.00,42.9843026,-82.3772412,pharmacy,,,pharmacy
+Northgate Pharmacy,healthcare,5620009.00,42.9855942,-82.3843263,pharmacy,,,pharmacy
+Shoppers Drug Mart,healthcare,5620009.00,42.9859592,-82.3868047,pharmacy,,,pharmacy
+MD Connected,healthcare,5620009.00,42.985855,-82.3877913,doctors,,,doctors
+Swimming Pool at Tract 5620009.00,recreation,5620009.00,42.9860984,-82.38018079999999,,swimming_pool,,swimming_pool
+Park at Tract 5620009.00,recreation,5620009.00,42.983471957308105,-82.37237419150843,,park,,park
+Park at Tract 5620009.00,parks,5620009.00,42.983471957308105,-82.37237419150843,,park,,park
+Laurel Lea St. Matthew's Presbysterian Church,community,5620009.00,42.98468945327311,-82.37945567423938,place_of_worship,,,place_of_worship
+Canon Davis Memorial Anglican Church,community,5620009.00,42.980600493827296,-82.39088623136813,place_of_worship,,,place_of_worship
+The Gathering Place Christian Fellowship,community,5620009.00,42.98100649999999,-82.38384810000001,place_of_worship,,,place_of_worship
+First Christian Reformed Church,community,5620009.00,42.98428927805093,-82.36746743407394,place_of_worship,,,place_of_worship
+Rosedale Public School,education,5620010.00,42.99336767076396,-82.37439810687353,school,,,school
+École élémentaire Les Rapides,education,5620010.00,42.99775189361828,-82.36671713220039,school,,,school
+Errol Road Public School,education,5620010.00,43.00294187356624,-82.37353033718459,school,,,school
+Northern Collegiate Institute and Vocational School,education,5620010.00,42.99985228518431,-82.37400160412888,school,,,school
+Park at Tract 5620010.00,recreation,5620010.00,43.00803050230937,-82.37145207377846,,park,,park
+Park at Tract 5620010.00,recreation,5620010.00,43.00555201031747,-82.36683093381966,,park,,park
+Fairlane Park,recreation,5620010.00,42.995165252172214,-82.36833114760917,,park,,park
+Hollands Park,recreation,5620010.00,42.98891124571198,-82.37227480614928,,park,,park
+Playground at Tract 5620010.00,recreation,5620010.00,43.00780859967888,-82.37091267318122,,playground,,playground
+Pitch at Tract 5620010.00,recreation,5620010.00,43.00161654644201,-82.36892847519393,,pitch,,pitch
+Pitch at Tract 5620010.00,recreation,5620010.00,43.00559604544655,-82.36625061105245,,pitch,,pitch
+Playground at Tract 5620010.00,recreation,5620010.00,42.98939110717572,-82.37176410684074,,playground,,playground
+Park at Tract 5620010.00,recreation,5620010.00,43.0016389629847,-82.36853551744973,,park,,park
+Park at Tract 5620010.00,recreation,5620010.00,43.007129418481256,-82.3664360866967,,park,,park
+Pitch at Tract 5620010.00,recreation,5620010.00,43.000870901405136,-82.37335530727947,,pitch,,pitch
+Pitch at Tract 5620010.00,recreation,5620010.00,43.00049520164982,-82.37436400768328,,pitch,,pitch
+Park at Tract 5620010.00,parks,5620010.00,43.00803050230937,-82.37145207377846,,park,,park
+Park at Tract 5620010.00,parks,5620010.00,43.00555201031747,-82.36683093381966,,park,,park
+Fairlane Park,parks,5620010.00,42.995165252172214,-82.36833114760917,,park,,park
+Hollands Park,parks,5620010.00,42.98891124571198,-82.37227480614928,,park,,park
+Park at Tract 5620010.00,parks,5620010.00,43.0016389629847,-82.36853551744973,,park,,park
+Park at Tract 5620010.00,parks,5620010.00,43.007129418481256,-82.3664360866967,,park,,park
+St. Demetrios Greek Orthodox Church,community,5620010.00,43.00050662311829,-82.36617685925256,place_of_worship,,,place_of_worship
+St. George's Ukrainian Catholic Church,community,5620010.00,42.99181674999999,-82.36950085,place_of_worship,,,place_of_worship
+Lambton Kent Alternative & Continuing Education Centre,education,5620011.00,42.98959870163429,-82.38720713218704,school,,,school
+Park at Tract 5620011.00,recreation,5620011.00,42.99288834632129,-82.38638473830125,,park,,park
+Jaycee Park,recreation,5620011.00,42.99161519521563,-82.38093387126654,,park,,park
+Park at Tract 5620011.00,recreation,5620011.00,42.99695232049383,-82.3895418767088,,park,,park
+Brentwood Park,recreation,5620011.00,42.990300696303066,-82.39356238185981,,park,,park
+Pitch at Tract 5620011.00,recreation,5620011.00,42.9901019,-82.39449375000002,,pitch,,pitch
+Pitch at Tract 5620011.00,recreation,5620011.00,42.990097000000006,-82.39384735,,pitch,,pitch
+Playground at Tract 5620011.00,recreation,5620011.00,42.99048236675592,-82.39384170509506,,playground,,playground
+Playground at Tract 5620011.00,recreation,5620011.00,42.990513682783174,-82.3933957392442,,playground,,playground
+Playground at Tract 5620011.00,recreation,5620011.00,42.990560750000014,-82.39393015,,playground,,playground
+Park at Tract 5620011.00,parks,5620011.00,42.99288834632129,-82.38638473830125,,park,,park
+Jaycee Park,parks,5620011.00,42.99161519521563,-82.38093387126654,,park,,park
+Park at Tract 5620011.00,parks,5620011.00,42.99695232049383,-82.3895418767088,,park,,park
+Brentwood Park,parks,5620011.00,42.990300696303066,-82.39356238185981,,park,,park
+Dunlop United Church,community,5620011.00,42.99154215712081,-82.38330453072346,place_of_worship,,,place_of_worship
+Queen of Peace Roman Catholic Church,community,5620011.00,42.99135030527082,-82.39155020426783,place_of_worship,,,place_of_worship
+Kingdom Hall of Jehovah's Witnesses,community,5620011.00,42.9943521,-82.38970910000002,place_of_worship,,,place_of_worship
+Sarnia Fire Station 3,community,5620011.00,42.996980624648245,-82.3886882383116,fire_station,,,fire_station
+Starbucks,restaurants,5620012.00,43.0041547,-82.3875906,cafe,,,cafe
+Valu-mart,shops,5620012.00,43.00440032350872,-82.38629336474074,,,supermarket,supermarket
+King George VI Public School,education,5620012.00,43.00224173986462,-82.391276601921,school,,,school
+École élémentaire catholique Saint-Thomas-d'Aquin,education,5620012.00,42.99987919309011,-82.37635082827452,school,,,school
+Rexall,healthcare,5620012.00,43.0041674,-82.3868389,pharmacy,,,pharmacy
+Park at Tract 5620012.00,recreation,5620012.00,43.00497696860122,-82.37913517111834,,park,,park
+Canatara Park,recreation,5620012.00,43.00174176887752,-82.40116282497782,,park,,park
+Park at Tract 5620012.00,recreation,5620012.00,42.99881101653174,-82.37829026196052,,park,,park
+Park at Tract 5620012.00,recreation,5620012.00,43.00088142328253,-82.39014644608922,,park,,park
+Park at Tract 5620012.00,parks,5620012.00,43.00497696860122,-82.37913517111834,,park,,park
+Canatara Park,parks,5620012.00,43.00174176887752,-82.40116282497782,,park,,park
+Park at Tract 5620012.00,parks,5620012.00,42.99881101653174,-82.37829026196052,,park,,park
+Park at Tract 5620012.00,parks,5620012.00,43.00088142328253,-82.39014644608922,,park,,park
+Church of Christ Sarnia,community,5620012.00,42.99962210549611,-82.38199783742596,place_of_worship,,,place_of_worship
+St Thomas D'Aquin Catholic Church,community,5620012.00,42.99812973045418,-82.37657530178895,place_of_worship,,,place_of_worship
+Subway,restaurants,5620013.00,43.0050136,-82.3870974,fast_food,,,fast_food
+McCarthys,restaurants,5620013.00,43.0050254,-82.3872503,bar,,,bar
+Tim Hortons,restaurants,5620013.00,43.00505875257055,-82.38836592368546,cafe,,,cafe
+Sacred Heart Catholic School,education,5620013.00,43.00625214640882,-82.39013063444241,school,,,school
+Lakeroad Public School,education,5620013.00,43.011943306562436,-82.3736292607843,school,,,school
+Lakeshore Family Dental,healthcare,5620013.00,43.0148958,-82.3657486,dentist,,,dentist
+Baxter Park,recreation,5620013.00,43.01196843268756,-82.38618944637498,,park,,park
+Waterfont Park,recreation,5620013.00,42.99745207884778,-82.4191365170605,,park,,park
+Canatara Park,recreation,5620013.00,43.00174176887752,-82.40116282497782,,park,,park
+Pitch at Tract 5620013.00,recreation,5620013.00,43.01021964236074,-82.37818819906644,,pitch,,pitch
+Park at Tract 5620013.00,recreation,5620013.00,43.01029103240318,-82.37799210655719,,park,,park
+Park at Tract 5620013.00,recreation,5620013.00,43.011097295774455,-82.37026834910044,,park,,park
+Vye Park,recreation,5620013.00,43.01186521881405,-82.37209659484483,,park,,park
+Baxter Park,parks,5620013.00,43.01196843268756,-82.38618944637498,,park,,park
+Waterfont Park,parks,5620013.00,42.99745207884778,-82.4191365170605,,park,,park
+Canatara Park,parks,5620013.00,43.00174176887752,-82.40116282497782,,park,,park
+Park at Tract 5620013.00,parks,5620013.00,43.01029103240318,-82.37799210655719,,park,,park
+Park at Tract 5620013.00,parks,5620013.00,43.011097295774455,-82.37026834910044,,park,,park
+Vye Park,parks,5620013.00,43.01186521881405,-82.37209659484483,,park,,park
+St. Bartholomew's Anglican Church,community,5620013.00,43.00541380345177,-82.38594465609492,place_of_worship,,,place_of_worship
+Grace United Church,community,5620013.00,43.00860311887675,-82.37382202072418,place_of_worship,,,place_of_worship
+St. Giles Presbyterian Church,community,5620013.00,43.01227770901569,-82.38222036206882,place_of_worship,,,place_of_worship
+Sacred Heart Roman Catholic Church,community,5620013.00,43.00787996539145,-82.39002971212899,place_of_worship,,,place_of_worship
+Bottoms Up,restaurants,5620100.00,42.9915017,-82.4076369,bar,,,bar
+Salvatore's Trattoria é Ristoranté,restaurants,5620100.00,42.9977756,-82.4175156,restaurant,,,restaurant
+Crossroads Restaurant and Bar,restaurants,5620100.00,42.9897147,-82.3977715,restaurant,,,restaurant
+Albert's,restaurants,5620100.00,42.997762233230816,-82.41799852028922,fast_food,,,fast_food
+Lambton County Library - Point Edward,education,5620100.00,42.9981538,-82.4135259,library,,,library
+Bridgeview Public School,education,5620100.00,42.9961325167893,-82.4095531012045,school,,,school
+Waterfont Park,recreation,5620100.00,42.99745207884778,-82.4191365170605,,park,,park
+Park at Tract 5620100.00,recreation,5620100.00,42.998613151915315,-82.4135546880691,,park,,park
+Park at Tract 5620100.00,recreation,5620100.00,43.00002321676585,-82.41551185736013,,park,,park
+Canatara Park,recreation,5620100.00,43.00174176887752,-82.40116282497782,,park,,park
+McCrae Park,recreation,5620100.00,42.99706787228367,-82.40424552861046,,park,,park
+Point Edward Arena,recreation,5620100.00,42.995883479565585,-82.41427844191259,,sports_centre,,sports_centre
+Amerindians Sculpture Park,recreation,5620100.00,42.9976949367248,-82.42200896415767,,park,,park
+Waterfront Park Playground,recreation,5620100.00,42.99937678577575,-82.41981049085653,,playground,,playground
+Pitch at Tract 5620100.00,recreation,5620100.00,42.99727546279229,-82.40391718985225,,pitch,,pitch
+Hillier Park,recreation,5620100.00,42.995509333333324,-82.41238236666668,,park,,park
+Sports Centre at Tract 5620100.00,recreation,5620100.00,42.996066947408416,-82.41477882511019,,sports_centre,,sports_centre
+Swimming Pool at Tract 5620100.00,recreation,5620100.00,42.9989979,-82.4072927,,swimming_pool,,swimming_pool
+Swimming Pool at Tract 5620100.00,recreation,5620100.00,43.00046533496589,-82.40717561503328,,swimming_pool,,swimming_pool
+Swimming Pool at Tract 5620100.00,recreation,5620100.00,43.00027177815727,-82.40709570048979,,swimming_pool,,swimming_pool
+Waterfont Park,parks,5620100.00,42.99745207884778,-82.4191365170605,,park,,park
+Park at Tract 5620100.00,parks,5620100.00,42.998613151915315,-82.4135546880691,,park,,park
+Park at Tract 5620100.00,parks,5620100.00,43.00002321676585,-82.41551185736013,,park,,park
+Canatara Park,parks,5620100.00,43.00174176887752,-82.40116282497782,,park,,park
+McCrae Park,parks,5620100.00,42.99706787228367,-82.40424552861046,,park,,park
+Amerindians Sculpture Park,parks,5620100.00,42.9976949367248,-82.42200896415767,,park,,park
+Hillier Park,parks,5620100.00,42.995509333333324,-82.41238236666668,,park,,park
+Point Edward Police Department,community,5620100.00,42.9976289,-82.4134706,police,,,police
+Point Edward Fire Department,community,5620100.00,42.9981573,-82.4136902,fire_station,,,fire_station
+St. Paul's Anglican Church,community,5620100.00,42.99820179265788,-82.41424777418074,place_of_worship,,,place_of_worship
+Point Edward Presbyterian Church,community,5620100.00,42.99804499428451,-82.41271391501633,place_of_worship,,,place_of_worship
+Milk Marc,shops,5620101.01,42.9998354,-82.3652973,,,convenience,convenience
+Daisy Mart,shops,5620101.01,43.01449482489097,-82.36469239248679,,,convenience,convenience
+Gregory A Hogan Catholic School,education,5620101.01,43.010622698790385,-82.3601572272498,school,,,school
+Cathcart Boulevard Public School,education,5620101.01,43.010121621198195,-82.36299899713845,school,,,school
+Shoppers Drug Mart,healthcare,5620101.01,43.00032937100779,-82.3645370442562,pharmacy,,,pharmacy
+Pathways Health Centre for Children,healthcare,5620101.01,43.001202491202115,-82.36496283193642,clinic,,,clinic
+Park at Tract 5620101.01,recreation,5620101.01,43.01317861409803,-82.3566755796488,,park,,park
+Cathcart Park,recreation,5620101.01,43.01410589259242,-82.34904131713036,,park,,park
+Pitch at Tract 5620101.01,recreation,5620101.01,43.013410743557685,-82.35035127576145,,pitch,,pitch
+Playground at Tract 5620101.01,recreation,5620101.01,43.01395493010349,-82.34962495283689,,playground,,playground
+Playground at Tract 5620101.01,recreation,5620101.01,43.007130149999995,-82.34954985,,playground,,playground
+Blackwell Trails Park,recreation,5620101.01,43.008236588976644,-82.3519048785183,,park,,park
+Blackwell Dog Park,recreation,5620101.01,43.01166290797213,-82.3466226583598,,park,,park
+Twin Lakes Park,recreation,5620101.01,43.00339977593396,-82.35939563510547,,park,,park
+Park at Tract 5620101.01,parks,5620101.01,43.01317861409803,-82.3566755796488,,park,,park
+Cathcart Park,parks,5620101.01,43.01410589259242,-82.34904131713036,,park,,park
+Blackwell Trails Park,parks,5620101.01,43.008236588976644,-82.3519048785183,,park,,park
+Blackwell Dog Park,parks,5620101.01,43.01166290797213,-82.3466226583598,,park,,park
+Twin Lakes Park,parks,5620101.01,43.00339977593396,-82.35939563510547,,park,,park
+The Church of Jesus Christ of Latter-day Saints,community,5620101.01,43.00537551320721,-82.3647804565839,place_of_worship,,,place_of_worship
+Park at Tract 5620101.02,recreation,5620101.02,43.015886239544635,-82.31857135191528,,park,,park
+Mike Weir Park,recreation,5620101.02,43.027357589350835,-82.27781062690917,,park,,park
+Camp Saredaca,recreation,5620101.02,43.02033491813163,-82.29915782952793,,park,,park
+Pitch at Tract 5620101.02,recreation,5620101.02,43.015626129546256,-82.31797950088846,,pitch,,pitch
+Pitch at Tract 5620101.02,recreation,5620101.02,43.0155143199374,-82.3192456725256,,pitch,,pitch
+Pitch at Tract 5620101.02,recreation,5620101.02,43.016731695710014,-82.31784502267251,,pitch,,pitch
+Pitch at Tract 5620101.02,recreation,5620101.02,43.01681706743444,-82.31865601571002,,pitch,,pitch
+Park at Tract 5620101.02,parks,5620101.02,43.015886239544635,-82.31857135191528,,park,,park
+Mike Weir Park,parks,5620101.02,43.027357589350835,-82.27781062690917,,park,,park
+Camp Saredaca,parks,5620101.02,43.02033491813163,-82.29915782952793,,park,,park
+Place Of Worship at Tract 5620101.02,community,5620101.02,43.0044677,-82.3414738,place_of_worship,,,place_of_worship
+Christ Lutheran Church,community,5620101.02,43.02410682609269,-82.29702113339381,place_of_worship,,,place_of_worship
+Sarnia Fire Station 5,community,5620101.02,43.02235273692656,-82.29702004260514,fire_station,,,fire_station
+Sarnia Seventh-day Adventist Church,community,5620101.02,43.00969085503655,-82.34218507558855,place_of_worship,,,place_of_worship
+Tim Hortons,restaurants,5620102.01,42.999131362323475,-82.36512743065609,cafe,,,cafe
+École secondaire catholique Saint-François-Xavier,education,5620102.01,42.99346824405828,-82.35315232414764,school,,,school
+Alexander Mackenzie Secondary School,education,5620102.01,42.99876234696433,-82.36170766811705,school,,,school
+St. Anne Catholic School,education,5620102.01,42.995550770845426,-82.34885575226357,school,,,school
+St. Patrick's Catholic High School,education,5620102.01,42.99504065716041,-82.35259226538814,school,,,school
+École secondaire Franco-Jeunesse,education,5620102.01,42.99341236932893,-82.35429644338865,school,,,school
+Wiltshire Park,recreation,5620102.01,42.99147715165062,-82.35959734829135,,park,,park
+Pitch at Tract 5620102.01,recreation,5620102.01,42.99425398771096,-82.35462180675407,,pitch,,pitch
+Park at Tract 5620102.01,recreation,5620102.01,42.999325489726495,-82.34578274666711,,park,,park
+Park at Tract 5620102.01,recreation,5620102.01,42.9963958848702,-82.34709781541576,,park,,park
+Park at Tract 5620102.01,recreation,5620102.01,42.9955612982568,-82.35370256287075,,park,,park
+Pitch at Tract 5620102.01,recreation,5620102.01,42.99450565190951,-82.3531658158817,,pitch,,pitch
+Pitch at Tract 5620102.01,recreation,5620102.01,42.99577629693254,-82.35336667071883,,pitch,,pitch
+Pitch at Tract 5620102.01,recreation,5620102.01,42.995521863393726,-82.34820607777206,,pitch,,pitch
+Wiltshire Park,parks,5620102.01,42.99147715165062,-82.35959734829135,,park,,park
+Park at Tract 5620102.01,parks,5620102.01,42.999325489726495,-82.34578274666711,,park,,park
+Park at Tract 5620102.01,parks,5620102.01,42.9963958848702,-82.34709781541576,,park,,park
+Park at Tract 5620102.01,parks,5620102.01,42.9955612982568,-82.35370256287075,,park,,park
+Centre Communautaire Francophone,community,5620102.01,42.9932871,-82.3541339,community_centre,,,community_centre
+Trinity Anglican Church,community,5620102.01,42.99849008174898,-82.3651397120126,place_of_worship,,,place_of_worship
+Huron Baptist Church,community,5620102.01,42.99996264023473,-82.35898120570458,place_of_worship,,,place_of_worship
+Kernels Popcorn,restaurants,5620102.02,42.9826895,-82.352376,fast_food,,,fast_food
+Coffee Lodge,restaurants,5620102.02,42.9828255,-82.3526078,cafe,,,cafe
+A&W,restaurants,5620102.02,42.9834523,-82.3529626,fast_food,,,fast_food
+New York Fries,restaurants,5620102.02,42.9834562,-82.3528777,fast_food,,,fast_food
+Manchu Wok,restaurants,5620102.02,42.9834536,-82.3527945,fast_food,,,fast_food
+Thaï Express,restaurants,5620102.02,42.9834549,-82.3527113,fast_food,,,fast_food
+Dino's Pizza,restaurants,5620102.02,42.9834601,-82.3525202,fast_food,,,fast_food
+Booster Juice,restaurants,5620102.02,42.9833824,-82.3528724,fast_food,,,fast_food
+Little Caesars,restaurants,5620102.02,42.9819536,-82.3557917,fast_food,,,fast_food
+Pita Pit,restaurants,5620102.02,42.9820243,-82.3557903,fast_food,,,fast_food
+Stoke's,restaurants,5620102.02,42.983675,-82.3557072,restaurant,,,restaurant
+Rondo's Pizza,restaurants,5620102.02,42.9839199,-82.3554287,restaurant,,,restaurant
+Mucho Burrito,restaurants,5620102.02,42.9850718,-82.3545403,fast_food,,,fast_food
+Taste of Mediterranean,restaurants,5620102.02,42.9854388,-82.3545149,fast_food,,,fast_food
+Warraich Bar & Grill,restaurants,5620102.02,42.9853721,-82.3545189,restaurant,,,restaurant
+Canton Restaurant,restaurants,5620102.02,42.9800936,-82.3512211,restaurant,,,restaurant
+East Side Mario's,restaurants,5620102.02,42.9795227,-82.3575382,restaurant,,,restaurant
+Burger Rebellion,restaurants,5620102.02,42.9807384,-82.3568402,restaurant,,,restaurant
+Refined Fool Brewing Co.,restaurants,5620102.02,42.9803992,-82.3568756,pub,,,pub
+Sitara Indian Cuisine,restaurants,5620102.02,42.9811656,-82.3572861,restaurant,,,restaurant
+Amici Italian Eatery & Bar,restaurants,5620102.02,42.9806271,-82.3562952,restaurant,,,restaurant
+Starbucks,restaurants,5620102.02,42.9793454,-82.3598485,cafe,,,cafe
+Subway,restaurants,5620102.02,42.9793561,-82.3600043,fast_food,,,fast_food
+Ole Country Diner,restaurants,5620102.02,42.9800907,-82.3606216,restaurant,,,restaurant
+Crabby Joe's,restaurants,5620102.02,42.9789549,-82.3609225,restaurant,,,restaurant
+Coffee Culture,restaurants,5620102.02,42.9789129,-82.3632931,cafe,,,cafe
+Twisted Arm Restaurant & Bar,restaurants,5620102.02,42.9786168,-82.363332,restaurant,,,restaurant
+Sub House,restaurants,5620102.02,42.9798182,-82.3628421,fast_food,,,fast_food
+The Bagel Factory,restaurants,5620102.02,42.979631,-82.364986,fast_food,,,fast_food
+Selina's Thai,restaurants,5620102.02,42.9763939,-82.3661807,restaurant,,,restaurant
+Poutine Hut,restaurants,5620102.02,42.9762355,-82.3661868,fast_food,,,fast_food
+Shockas Pizza Co.,restaurants,5620102.02,42.976187,-82.3661899,restaurant,,,restaurant
+BrownStones,restaurants,5620102.02,42.9714949,-82.3539779,restaurant,,,restaurant
+Subway,restaurants,5620102.02,42.9874847,-82.3530335,fast_food,,,fast_food
+Tim Hortons,restaurants,5620102.02,42.975706,-82.347536,cafe,,,cafe
+Subway,restaurants,5620102.02,42.9755588,-82.3475575,fast_food,,,fast_food
+Pizza Pizza,restaurants,5620102.02,42.9756314,-82.3473938,fast_food,,,fast_food
+Dragon Palace,restaurants,5620102.02,42.9790186,-82.3599006,restaurant,,,restaurant
+Victory Buffet,restaurants,5620102.02,42.97849373290261,-82.36421520069817,restaurant,,,restaurant
+McDonald's,restaurants,5620102.02,42.9849198816134,-82.35544674078643,fast_food,,,fast_food
+Hana,restaurants,5620102.02,42.97982956016442,-82.35226269471006,restaurant,,,restaurant
+McDonald's,restaurants,5620102.02,42.97929509950978,-82.36106543241884,fast_food,,,fast_food
+Tim Hortons,restaurants,5620102.02,42.98011402060811,-82.35998775781536,cafe,,,cafe
+Pizza Hut,restaurants,5620102.02,42.980041140392565,-82.36085798750563,restaurant,,,restaurant
+Wendy's,restaurants,5620102.02,42.9795642182921,-82.36562112163293,fast_food,,,fast_food
+Harvey's,restaurants,5620102.02,42.97941420245907,-82.35845543698366,fast_food,,,fast_food
+Chuck's Roadhouse,restaurants,5620102.02,42.9839812715492,-82.35106428966628,restaurant,,,restaurant
+Boston Pizza,restaurants,5620102.02,42.984869860702936,-82.3512804158312,restaurant,,,restaurant
+Dairy Queen,restaurants,5620102.02,42.98550787983576,-82.35123192363022,fast_food,,,fast_food
+A&W,restaurants,5620102.02,42.98477286464449,-82.35255653387021,fast_food,,,fast_food
+Swiss Chalet,restaurants,5620102.02,42.97933242058049,-82.35922585745232,restaurant,,,restaurant
+Tim Hortons,restaurants,5620102.02,42.985746662726996,-82.35464872560748,cafe,,,cafe
+Taco Bell,restaurants,5620102.02,42.97951275,-82.35654785,fast_food,,,fast_food
+Popeyes,restaurants,5620102.02,42.979471213595836,-82.35707867441745,fast_food,,,fast_food
+Mark's,shops,5620102.02,42.9824535,-82.3513614,,,clothes,clothes
+Alia N TanJay,shops,5620102.02,42.9825144,-82.351842,,,clothes,clothes
+American Eagle Outfitters,shops,5620102.02,42.9826203,-82.3521039,,,clothes,clothes
+La Senza,shops,5620102.02,42.9827781,-82.3524675,,,clothes,clothes
+Lids,shops,5620102.02,42.9826895,-82.3526095,,,clothes,clothes
+La Vie en Rose,shops,5620102.02,42.9825647,-82.3528686,,,clothes,clothes
+Garage,shops,5620102.02,42.9824384,-82.3528732,,,clothes,clothes
+Cleo,shops,5620102.02,42.9823517,-82.3528697,,,clothes,clothes
+The Children's Place,shops,5620102.02,42.982186,-82.3528714,,,clothes,clothes
+Zack's,shops,5620102.02,42.9820047,-82.3528732,,,clothes,clothes
+Fairweather,shops,5620102.02,42.9818095,-82.3528017,,,clothes,clothes
+Bluenotes,shops,5620102.02,42.9817264,-82.352783,,,clothes,clothes
+Boathouse,shops,5620102.02,42.9816319,-82.3527564,,,clothes,clothes
+Ardene,shops,5620102.02,42.9815361,-82.3527511,,,clothes,clothes
+Dynamite,shops,5620102.02,42.9816974,-82.3529617,,,clothes,clothes
+Urban Kids,shops,5620102.02,42.9818135,-82.352974,,,clothes,clothes
+Ricki's,shops,5620102.02,42.9823129,-82.3530342,,,clothes,clothes
+Suzy Shier,shops,5620102.02,42.9825629,-82.3530548,,,clothes,clothes
+Northern Reflections,shops,5620102.02,42.9827833,-82.3530454,,,clothes,clothes
+H&M,shops,5620102.02,42.9830498,-82.3530594,,,clothes,clothes
+Maurices,shops,5620102.02,42.9830062,-82.3528925,,,clothes,clothes
+Bulk Barn,shops,5620102.02,42.982607,-82.3556992,,,supermarket,supermarket
+Penningtons,shops,5620102.02,42.9862779,-82.3490892,,,clothes,clothes
+Carter's OshKosh,shops,5620102.02,42.9864831,-82.349077,,,clothes,clothes
+Moores,shops,5620102.02,42.9867064,-82.3465891,,,clothes,clothes
+Reitmans,shops,5620102.02,42.9868269,-82.3464427,,,clothes,clothes
+Metro,shops,5620102.02,42.9791978,-82.3538413,,,supermarket,supermarket
+Giant Tiger,shops,5620102.02,42.9784034,-82.3616387,,,department_store,department_store
+Real Canadian Superstore,shops,5620102.02,42.977842,-82.3651389,,,supermarket,supermarket
+Neighbours Coffee,shops,5620102.02,42.9793947,-82.3661893,,,convenience,convenience
+Winners,shops,5620102.02,42.9883328,-82.3448741,,,clothes,clothes
+Walmart Supercentre,shops,5620102.02,42.98866810381801,-82.34795529684445,,,supermarket,supermarket
+Canadian Tire,shops,5620102.02,42.98219354690184,-82.35009189062123,,,department_store,department_store
+Lambton County Library - Mallroad,education,5620102.02,42.9810471,-82.3558386,library,,,library
+Sarnia Christian School,education,5620102.02,42.98344113059829,-82.36103220437911,school,,,school
+Lambton College,education,5620102.02,42.97643661581052,-82.3475824211261,college,,,college
+Edge Water Dental,healthcare,5620102.02,42.9848872,-82.3567458,dentist,,,dentist
+Ferge Denture Clinics,healthcare,5620102.02,42.9841741,-82.3554026,dentist,,,dentist
+PharmaChoice,healthcare,5620102.02,42.9806401,-82.3610856,pharmacy,,,pharmacy
+Pharmasave,healthcare,5620102.02,42.9789662,-82.3634121,pharmacy,,,pharmacy
+Pitch at Tract 5620102.02,recreation,5620102.02,42.98884041978948,-82.35069816647768,,pitch,,pitch
+Pitch at Tract 5620102.02,recreation,5620102.02,42.972948486724576,-82.35835232675342,,pitch,,pitch
+Clearwater Arena,recreation,5620102.02,42.97125323993746,-82.35629378662418,,sports_centre,,sports_centre
+Pitch at Tract 5620102.02,recreation,5620102.02,42.9712800817802,-82.3582637379548,,pitch,,pitch
+Pitch at Tract 5620102.02,recreation,5620102.02,42.972829653100305,-82.356752577098,,pitch,,pitch
+Pitch at Tract 5620102.02,recreation,5620102.02,42.970604193993275,-82.35830461473265,,pitch,,pitch
+Progressive Auto Sales Arena,recreation,5620102.02,42.97731847724011,-82.34754819265952,,sports_centre,,sports_centre
+Playground at Tract 5620102.02,recreation,5620102.02,42.971211183106035,-82.3579512784479,,playground,,playground
+Clearwater Community Centre Park,recreation,5620102.02,42.97187965422205,-82.35713130258031,,park,,park
+Playground at Tract 5620102.02,recreation,5620102.02,42.972473334368274,-82.3558414307687,,playground,,playground
+Pitch at Tract 5620102.02,recreation,5620102.02,42.97245172193608,-82.34975083987155,,pitch,,pitch
+Pitch at Tract 5620102.02,recreation,5620102.02,42.97832726313894,-82.34572705935267,,pitch,,pitch
+Pitch at Tract 5620102.02,recreation,5620102.02,42.97957829053973,-82.3451918117847,,pitch,,pitch
+Pitch at Tract 5620102.02,recreation,5620102.02,42.97193100403188,-82.35824417699082,,pitch,,pitch
+Afton Park,recreation,5620102.02,42.97458793518066,-82.36400621885232,,park,,park
+Park at Tract 5620102.02,recreation,5620102.02,42.98188810974968,-82.36567676495437,,park,,park
+Pitch at Tract 5620102.02,recreation,5620102.02,42.98244643030055,-82.3567754824783,,pitch,,pitch
+Clearwater Community Centre Park,parks,5620102.02,42.97187965422205,-82.35713130258031,,park,,park
+Afton Park,parks,5620102.02,42.97458793518066,-82.36400621885232,,park,,park
+Park at Tract 5620102.02,parks,5620102.02,42.98188810974968,-82.36567676495437,,park,,park
+Sarnia Fire Station 4,community,5620102.02,42.97099707833855,-82.35510216141185,fire_station,,,fire_station
+Living Hope Christian Reformed Church,community,5620102.02,42.984116022762535,-82.36005378542991,place_of_worship,,,place_of_worship
+Temple Baptist Church,community,5620102.02,42.98720428702247,-82.35077397860627,place_of_worship,,,place_of_worship
+Kingdom Hall of Jehovah's Witnesses,community,5620102.02,42.975483925050575,-82.36612177153484,place_of_worship,,,place_of_worship
+Bluewater Baptist Church,community,5620102.02,42.96936193330512,-82.36142843035468,place_of_worship,,,place_of_worship
+Holy Trinity Ukrainian Orthodox Church,community,5620102.02,42.98508051064789,-82.36237232481501,place_of_worship,,,place_of_worship
+Coffee Lodge,restaurants,5620102.03,42.9700259,-82.3545949,cafe,,,cafe
+Pizza Pizza,restaurants,5620102.03,42.9699366,-82.3545004,fast_food,,,fast_food
+Mac's,shops,5620102.03,42.970179,-82.3546485,,,convenience,convenience
+Great Lakes Secondary School,education,5620102.03,42.966331960587645,-82.36561007325501,school,,,school
+Sherwood Park,recreation,5620102.03,42.96516410610435,-82.35594348164055,,park,,park
+Sherwood Park,recreation,5620102.03,42.964309791522844,-82.35141531517675,,park,,park
+Park at Tract 5620102.03,recreation,5620102.03,42.96569761562368,-82.36217415689129,,park,,park
+Pitch at Tract 5620102.03,recreation,5620102.03,42.97080622989638,-82.35237066635351,,pitch,,pitch
+Sherwood Park,parks,5620102.03,42.96516410610435,-82.35594348164055,,park,,park
+Sherwood Park,parks,5620102.03,42.964309791522844,-82.35141531517675,,park,,park
+Park at Tract 5620102.03,parks,5620102.03,42.96569761562368,-82.36217415689129,,park,,park
