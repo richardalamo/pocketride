@@ -1,1 +1,1 @@
-https://taxi-demand-prediction-chicago-3848f310efca.herokuapp.com/
+https://mahender-ch-fvhydhf0hzcvhggb.canadacentral-01.azurewebsites.net/
