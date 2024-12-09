@@ -1,3 +1,4 @@
 Step 1: Extract weather data from Meteostat or any other feasible weather API and merge with other inputs - zone name, date, time, average fare per mile,
 average speed per mile. The average fare per mile and speed per mile to be extracted from actual data stored in the database
-Step 2: Apply the ML model to predict the anticipated demand at any given zone
+Step 2: Apply the ML model (more details about the model in chicaco_taxi_demand_prediction.ipynb) to predict the anticipated demand at any given zone
+Step 3: Use the Flask or any preferred API to provide outputs and relevant visualization. Flask code with the file name app.py is attached
